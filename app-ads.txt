@@ -1,2 +1,1 @@
-# Hurry Birdy! pre-release. No authorized advertising seller is configured yet.
-# Replace with the exact AdMob publisher authorization line before monetized launch.
+google.com, pub-9711826571872439, DIRECT, f08c47fec0942fa0
